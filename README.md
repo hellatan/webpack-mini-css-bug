@@ -1,4 +1,6 @@
-# 🚀 Mini CSS Extract Plugin bug
+# 🚀 Mini CSS Extract Plugin bug 
+
+Repo for https://github.com/webpack-contrib/mini-css-extract-plugin/issues/205.
 
 When passing in `css-loader` as a string option to `mini-css-extract-plugin`, webpack builds successfully:
 
